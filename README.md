@@ -11,7 +11,7 @@ Kelas : A
 
 Pada halaman ini pengguna akan ditampilkan nama aplikasi dan sebuah tombol untuk memulai / mengakses aplikasi.
 
-<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/4b611f80-3e75-415e-b6b7-bb4b177f5b25" />
+
 
 ### Screen 2 (Auth Page)
 
