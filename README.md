@@ -1,7 +1,7 @@
 # UTS Pengembangan Aplikasi Mobile 
 
-Nama : Andhika Pratama Kurniawan  
-NIM : 1237050117  
+Nama : Ariel Aziz Bhadrika  
+NIM : 1237050108 
 Kelas : A
 
 
